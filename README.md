@@ -5,7 +5,7 @@ Made by **Farhan**
 Made in **Bangladesh**
 
 ## Get Help
-For build help and discussions, you can join the following GitHub channels:
+For build help and discussions, you can join the following telegram channels:
 - [@farhan_build](https://github.com/farhan_build)
 - [@Farhan_build_discussion](https://github.com/Farhan_build_discussion)
 
